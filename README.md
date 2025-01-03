@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purva Sanjay Jadhav</h1>
 <h3 align="center">A passionate Full-Stack developer| C, C++, Java, Python| HTML, CSS, JavaScript, Bootstrap, Tailwind | Node.js, React, Express, SQL, MongoDB| RESTful APIs| Git/GitHub Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purvasjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="purvasjadhav" /> </p>
-
-<p align="left"> <a href="https://twitter.com/purva_s_jadhav" target="blank"><img src="https://img.shields.io/twitter/follow/purva_s_jadhav?logo=twitter&style=for-the-badge" alt="purva_s_jadhav" /></a> </p>
-
 - 📫 How to reach me **purvajadhav9075@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
