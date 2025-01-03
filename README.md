@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Purva Sanjay Jadhav</h1>
 <h3 align="center">A passionate Full-Stack developer| C, C++, Java, Python| HTML, CSS, JavaScript, Bootstrap, Tailwind | Node.js, React, Express, SQL, MongoDB| RESTful APIs| Git/GitHub Enthusiast</h3>
+<br>
 
 - 📫 How to reach me **purvajadhav9075@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purvasjadhav&show_icons=true&locale=en&layout=compact" alt="purvasjadhav" /></p>
 
+<br>
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purvasjadhav&show_icons=true&locale=en" alt="purvasjadhav" /></p>
