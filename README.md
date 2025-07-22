@@ -4,6 +4,7 @@
 
 - 📫 How to reach me **purvajadhav9075@gmail.com**
 - 📫 My Portfolio **https://purvasj-portfolio.netlify.app**
+- 📫 [Resume](https://drive.google.com/file/d/1CBVTMfi3PleI2IJGJ3W9CmGpD02vGqiF/view?usp=drive_link)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvasjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="purvasjadhav" /> </p>
