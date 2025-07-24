@@ -19,8 +19,10 @@
   <li>Collaborating on <strong>open-source projects</strong> and actively participating in the developer community</li>
 </ul>
 
+<br>
 
-- 📫 How to reach me **purvajadhav9075@gmail.com**
+- 📩 How to reach me
+- 📫 My Email **purvajadhav9075@gmail.com**
 - 📫 My Portfolio **https://purvasj-portfolio.netlify.app**
 - 📫 My Resume [Resume](https://drive.google.com/file/d/1uAXOeURVGEcx-PUn3TULTQ0-4RnbArDn/view?usp=drive_link)
 <br>
